@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.ce8b8559.css",
+    "main.js": "/portfolio-website/static/js/main.e9bd23cc.js",
+    "static/js/787.749b4a44.chunk.js": "/portfolio-website/static/js/787.749b4a44.chunk.js",
+    "static/media/about-me.jpg": "/portfolio-website/static/media/about-me.a047a6fde34e926ac58b.jpg",
+    "static/media/me.png": "/portfolio-website/static/media/me.54530f8bb4db7f712e87.png",
+    "static/media/underway-case.png": "/portfolio-website/static/media/underway-case.1ed8909790096a55dd24.png",
+    "static/media/knu.png": "/portfolio-website/static/media/knu.b9985b225c7467135bb7.png",
+    "static/media/cv.pdf": "/portfolio-website/static/media/cv.0270a8b7a5b5fd5b3371.pdf",
+    "static/media/minvet-case.png": "/portfolio-website/static/media/minvet-case.01ceecc3b5705858a843.png",
+    "static/media/concepter-case.png": "/portfolio-website/static/media/concepter-case.2bdb6ff72bf304813495.png",
+    "static/media/smartyads-case.png": "/portfolio-website/static/media/smartyads-case.3ad01d53d6a623bf696c.png",
+    "static/media/vf.png": "/portfolio-website/static/media/vf.986deba3bdbfba288615.png",
+    "static/media/pentilect-case.png": "/portfolio-website/static/media/pentilect-case.96b337331ffd1e22b8dc.png",
+    "static/media/linkedin.png": "/portfolio-website/static/media/linkedin.5a591247d95b73892b09.png",
+    "static/media/personal-logo.png": "/portfolio-website/static/media/personal-logo.815d72e08daa1e0cf010.png",
+    "static/media/pentilect.png": "/portfolio-website/static/media/pentilect.64f45d30c9343a843831.png",
+    "static/media/fb.png": "/portfolio-website/static/media/fb.c1fe8ec16d48a474ee4e.png",
+    "static/media/xpc-logo.png": "/portfolio-website/static/media/xpc-logo.44e1b1b84159c353fa32.png",
+    "static/media/logo.svg": "/portfolio-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/portfolio-website/index.html",
+    "main.ce8b8559.css.map": "/portfolio-website/static/css/main.ce8b8559.css.map",
+    "main.e9bd23cc.js.map": "/portfolio-website/static/js/main.e9bd23cc.js.map",
+    "787.749b4a44.chunk.js.map": "/portfolio-website/static/js/787.749b4a44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce8b8559.css",
+    "static/js/main.e9bd23cc.js"
+  ]
+}
