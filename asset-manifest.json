@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.cf843daf.css",
+    "main.css": "/static/css/main.1395a90f.css",
     "main.js": "/static/js/main.926badca.js",
     "static/js/787.749b4a44.chunk.js": "/static/js/787.749b4a44.chunk.js",
     "static/media/about-me.jpg": "/static/media/about-me.a047a6fde34e926ac58b.jpg",
@@ -22,12 +22,12 @@
     "static/media/xpc-logo.png": "/static/media/xpc-logo.44e1b1b84159c353fa32.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.cf843daf.css.map": "/static/css/main.cf843daf.css.map",
+    "main.1395a90f.css.map": "/static/css/main.1395a90f.css.map",
     "main.926badca.js.map": "/static/js/main.926badca.js.map",
     "787.749b4a44.chunk.js.map": "/static/js/787.749b4a44.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf843daf.css",
+    "static/css/main.1395a90f.css",
     "static/js/main.926badca.js"
   ]
 }
