@@ -1,0 +1,146 @@
+{
+    "language": "Перемкнути мову:",
+    "header": {
+      "greeting": "Hi, my name's",
+      "name": "Artur Sarhizov",
+      "job": "Product Manager",
+      "cta": {
+        "download_cv": "Download CV",
+        "lets_talk": "Let's talk!"
+      }
+  },
+  "about": {
+      "title": "About me",
+      "summary": "Summary",
+      "summary_1": "Hey! I am a Product manager whose goal is to buid quality software and other products. I am very people-oriented, that means my priorities are making my team the most effective and fulfilling user needs. I always try to dig deep in understanding my users and my product from the technical standpoint.",
+      "summary_2": "In my free time I like boxing, reading about politics and history and going outside.",
+      "tech_skills": "Tech Skills"
+  },
+  "education": {
+    "title": "Education",
+    "higher_ed": 
+        {
+            "title": "Higher Education",
+            "school": "Taras Shevchenko National University of Kyiv",
+            "degree": "Bachelor of International Information",
+            "speciality": "Specialist in International Communication Technologies"
+        },
+    "certifications": 
+        {
+            "title": "Certifications",
+            "codecademy": {
+                "platform": "Codecademy",
+                "course_1": "Build a Website with HTML, CSS and GitHub Pages",
+                "course_2": "Learn Intermediate JavaScript",
+                "course_3": "Learn React",
+                "course_4": "Learn React Native"
+            },
+            "udemy": {
+                "platform": "Udemy",
+                "course_1": "Usability Testing and UX Research"
+            }
+        }
+  },
+  "experience": {
+      "title": "Experience",
+      "pentilect": {
+          "project": "Project: ",
+          "title": "Pentilect",
+          "position": "Position: ",
+          "position_title": "Product Manager",
+          "date": "August 2021 — present",
+          "resps": "Responsibilities and Achievements:",
+          "resp_1": "Delivered working prototype of the product in 3 months.",
+          "resp_2": "Led a team of 5 people using Agile methodology.",
+          "resp_3": "Developed functionality of the eLearning platform from scratch.",
+          "resp_4": "Сreated user journeys and wrote user stories.",
+          "resp_5": "Estimated project budget."
+      },
+      "zdorro": {
+          "project": "Project: ",
+          "title": "Zdorro",
+          "position": "Position: ",
+          "position_title": "Product Manager",
+          "date": "August 2021 — present",
+          "resps": "Responsibilities and Achievements:",
+          "resp_1": "Increased the number of consultations by 175%, MAU by 33% in 6 months.",
+          "resp_2": "Coordinated marketing campaign.",
+          "resp_3": "Conducted Mailchimp customer satisfaction campaign."
+
+      },
+      "n_back": {
+          "project": "Project: ",
+          "title": "N-Back Challenge",
+          "position": "Position: ",
+          "position_title": "Assistant Product Manager",
+          "date": "August 2020 — August 2021",
+          "resps": "Responsibilities and Achievements:",
+          "resp_1": "Conducted market research.",
+          "resp_2": "Wrote user stories.",
+          "resp_3": "Assessed the builds, provided feedback, worked closely with the development team to make our product look and feel better.",
+          "resp_4": "Conducted usability testings and interviews with beta users.",
+          "resp_5": "Assisted in developing a marketing strategy."
+      },
+      "xpc": {
+          "project": "Project: ",
+          "title": "Expercast",
+          "position": "Position: ",
+          "position_title": "Growth Manager",
+          "date": "October 2017 — August 2021",
+          "resps": "Responsibilities and Achievements:",
+          "resp_1": "Hired 29 top-notch team members and established an effective People OPS organization.",
+          "resp_2": "Developed hiring strategy (recruiting sources, test tasks, etc.) and implemented it.",
+          "resp_3": "Assessed candidates’ CVs, portfolios and test tasks for various roles.",
+          "resp_4": "Provided reports to the management concerning overall impression on candidates’ personalities based on the Five-Factor Model.",
+          "resp_5": "Created a system of SOP documents."
+      }
+  },
+  "projects": {
+      "title": "My works",
+      "subtitle": "Projects & Cases",
+      "button": "Coming soon...",
+      "underway": {
+          "title": "Underway",
+          "date": "2021 — present day",
+          "type": "Pet Project",
+          "description": "Underway is an advanced underground navigator for iOS and Android. I have gathered a small team of my friends to develop an app which would help people easily navigate in Kyiv underground. I have already created mockups using Figma and started development using JavaScript and React Native."
+      },
+      "minvet": {
+          "title": "Ministry of Veteran Affairs of Ukraine",
+          "date": "2022",
+          "type": "Test Case",
+          "description": "Created concept of online-museum of Ukrainian war."
+      },
+      "smartyads": {
+          "title": "Smarty Ads",
+          "date": "2021",
+          "type": "Test Case",
+          "description": "Conducted video game market analysis, created a strategy for opening a gaming division for the company."
+      },
+      "concepter": {
+          "title": "Concepter",
+          "date": "2017",
+          "type": "Кейс для змагання",
+          "description": "In this case I conducted a market research of electronics retail in South-East Asia and developed a marketing strategy. I attained second place in the competition and gained appreciation of the company’s CEO."
+      }
+  },
+  "contact": {
+      "title": "Contact Me",
+      "send": "Send a message",
+      "name": "Your Full Name",
+      "email": "Your Email",
+      "message": "Your Message",
+      "send_button": "Send Message",
+      "alert": "Message sent! I will contact you shortly."
+  },
+  "footer": {
+      "name": "Artur Sarhizov",
+      "home": "Home",
+      "about": "About",
+      "education": "Education",
+      "experience": "Experience",
+      "projects": "Projects",
+      "contact": "Contact"
+  }
+        
+  }
