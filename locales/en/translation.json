@@ -13,7 +13,7 @@
       "title": "About me",
       "summary": "Summary",
       "summary_1": "Hello and welcome to my website! Let me briefly introduce myself.",
-      "summary_2": "I am a product manager who is enjoys working with the user and is deeply interested in design and technology. Throughout my career I’ve had an opportunity to work in different fields of product and team management: people operations and hiring, online marketing and business analytics, product design and user research. I worked in both fast-growing startup and large stable corporation, but always on some innovative products with high level of uncertainty.",
+      "summary_2": "I am a product manager who enjoys working with the user and is deeply interested in design and technology. Throughout my career I’ve had an opportunity to work in different fields of product and team management: people operations and hiring, online marketing and business analytics, product design and user research. I worked in both fast-growing startup and large stable corporation, but always on some innovative products with high level of uncertainty.",
       "summary_3": "I believe that a good Product Manager needs to understand their product not only from the user or business sides, but also from the design and technical ones, that’s why I’m constantly working on my skills there as well. To that end I’ve started developing my own pet project, which you can learn more about below.",
       "summary_4": "Outside my work interests I am passionate about my field of study at the university, including foreign policy, international relations and communications. I enjoy doing sports like weightlifting and boxing, reading about history and spending time outside.",
       "tech_skills": "Tech Skills"
@@ -105,13 +105,13 @@
           "title": "Underway",
           "date": "2021 — present day",
           "type": "Pet Project",
-          "description": "Underway is an advanced underground navigator for iOS and Android. I have gathered a small team of my friends to develop an app which would help people easily navigate in Kyiv underground. I have already created mockups using Figma and started development using JavaScript and React Native."
+          "description": "Underway is an advanced underground navigator for iOS and Android. I have gathered a small team of my friends to develop an app which would help people find their way in Kyiv underground easily. I have already created mockups using Figma and started development using JavaScript and React Native."
       },
       "minvet": {
           "title": "Ministry of Veteran Affairs of Ukraine",
           "date": "2022",
           "type": "Test Case",
-          "description": "Created concept of online-museum of Ukrainian war."
+          "description": "Created a concept of online-museum of Ukrainian war."
       },
       "smartyads": {
           "title": "Smarty Ads",
@@ -122,7 +122,7 @@
       "concepter": {
           "title": "Concepter",
           "date": "2017",
-          "type": "Кейс для змагання",
+          "type": "Competition Case",
           "description": "In this case I conducted a market research of electronics retail in South-East Asia and developed a marketing strategy. I attained second place in the competition and gained appreciation of the company’s CEO."
       }
   },
