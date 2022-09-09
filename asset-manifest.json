@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ace08a75.css",
-    "main.js": "/static/js/main.8c9a8aee.js",
+    "main.js": "/static/js/main.c6561a37.js",
     "static/js/787.749b4a44.chunk.js": "/static/js/787.749b4a44.chunk.js",
     "static/media/minvet-test.pdf": "/static/media/minvet-test.6420372b93054bc6e6b7.pdf",
     "static/media/about-me.webp": "/static/media/about-me.6c102650840f60ebe217.webp",
@@ -298,11 +298,11 @@
     "static/media/bd.svg": "/static/media/bd.0ad8c443ef4d47ea0497.svg",
     "static/media/id.svg": "/static/media/id.f624e2c8444a7794b357.svg",
     "main.ace08a75.css.map": "/static/css/main.ace08a75.css.map",
-    "main.8c9a8aee.js.map": "/static/js/main.8c9a8aee.js.map",
+    "main.c6561a37.js.map": "/static/js/main.c6561a37.js.map",
     "787.749b4a44.chunk.js.map": "/static/js/787.749b4a44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ace08a75.css",
-    "static/js/main.8c9a8aee.js"
+    "static/js/main.c6561a37.js"
   ]
 }
