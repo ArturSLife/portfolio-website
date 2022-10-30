@@ -32,10 +32,11 @@
                 "title": "Сертифікати",
                 "codecademy": {
                     "platform": "Codecademy",
-                    "course_1": "Будуємо веб-сайт з HTML, CSS і GitHub Pages",
-                    "course_2": "Вивчаємо JavaScript (середній рівень)",
-                    "course_3": "Вивчаємо React",
-                    "course_4": "Вивчаємо React Native"
+                    "course_5": "Вивчаємо Tableau для візуалізації даних",
+                    "course_4": "Будуємо веб-сайт з HTML, CSS і GitHub Pages",
+                    "course_3": "Вивчаємо JavaScript (середній рівень)",
+                    "course_2": "Вивчаємо React",
+                    "course_1": "Вивчаємо React Native"
                 },
                 "udemy": {
                     "platform": "Udemy",

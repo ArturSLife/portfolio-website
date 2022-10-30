@@ -32,10 +32,11 @@
             "title": "Certifications",
             "codecademy": {
                 "platform": "Codecademy",
-                "course_1": "Build a Website with HTML, CSS and GitHub Pages",
-                "course_2": "Learn Intermediate JavaScript",
-                "course_3": "Learn React",
-                "course_4": "Learn React Native"
+                "course_5": "Learn Tableau for Data Visualization",
+                "course_4": "Build a Website with HTML, CSS and GitHub Pages",
+                "course_3": "Learn Intermediate JavaScript",
+                "course_2": "Learn React",
+                "course_1": "Learn React Native"
             },
             "udemy": {
                 "platform": "Udemy",
