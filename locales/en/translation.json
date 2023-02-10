@@ -32,6 +32,7 @@
             "title": "Certifications",
             "codecademy": {
                 "platform": "Codecademy",
+                "course_6": "Learn SQL",
                 "course_5": "Learn Tableau for Data Visualization",
                 "course_4": "Build a Website with HTML, CSS and GitHub Pages",
                 "course_3": "Learn Intermediate JavaScript",
@@ -46,6 +47,18 @@
   },
   "experience": {
       "title": "Experience",
+      "webaoc": {
+        "project": "Project: ",
+        "title": "Web AoC ('No Credit' portal for mobile operator's subscribers)",
+        "position": "Position: ",
+        "position_title": "Product Manager",
+        "date": "August 2022 — present",
+        "resps": "Responsibilities and Achievements:",
+        "resp_1": "Set up a dashboard with product analytics.",
+        "resp_2": "Improved portal layout by conducting A/B tests.",
+        "resp_3": "Prioritized hypotheses using RICE methodology.",
+        "resp_4": "Coordinated a cross-functional group of 14 people implementing a network improvement project."
+    },
       "pentilect": {
           "project": "Project: ",
           "title": "Pentilect",

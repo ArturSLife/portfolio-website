@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c95a3853.css",
-    "main.js": "/static/js/main.63a64fe3.js",
+    "main.css": "/static/css/main.c7b1b013.css",
+    "main.js": "/static/js/main.67b403cc.js",
     "static/js/787.749b4a44.chunk.js": "/static/js/787.749b4a44.chunk.js",
     "static/media/minvet-test.pdf": "/static/media/minvet-test.6420372b93054bc6e6b7.pdf",
     "static/media/about-me.webp": "/static/media/about-me.6c102650840f60ebe217.webp",
@@ -51,6 +51,7 @@
     "static/media/un.svg": "/static/media/un.4388dfb01646ff8dc71d.svg",
     "static/media/pentilect-case.png": "/static/media/pentilect-case.96b337331ffd1e22b8dc.png",
     "static/media/ni.svg": "/static/media/ni.893e2e54a15bad4768e3.svg",
+    "static/media/vflogosquare.png": "/static/media/vflogosquare.dcf5407e27207267e00e.png",
     "static/media/py.svg": "/static/media/py.b4f1de657b201640e4ec.svg",
     "static/media/dm.svg": "/static/media/dm.d5ea6f472d24bff288ef.svg",
     "static/media/sm.svg": "/static/media/sm.7f0fe9fe91337a906853.svg",
@@ -297,12 +298,12 @@
     "static/media/de.svg": "/static/media/de.6435bf24d148ca7248e7.svg",
     "static/media/bd.svg": "/static/media/bd.0ad8c443ef4d47ea0497.svg",
     "static/media/id.svg": "/static/media/id.f624e2c8444a7794b357.svg",
-    "main.c95a3853.css.map": "/static/css/main.c95a3853.css.map",
-    "main.63a64fe3.js.map": "/static/js/main.63a64fe3.js.map",
+    "main.c7b1b013.css.map": "/static/css/main.c7b1b013.css.map",
+    "main.67b403cc.js.map": "/static/js/main.67b403cc.js.map",
     "787.749b4a44.chunk.js.map": "/static/js/787.749b4a44.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c95a3853.css",
-    "static/js/main.63a64fe3.js"
+    "static/css/main.c7b1b013.css",
+    "static/js/main.67b403cc.js"
   ]
 }
